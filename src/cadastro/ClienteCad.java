@@ -10,5 +10,11 @@ package cadastro;
  * @author higor
  */
 public class ClienteCad {
+
+    public ClienteCad() {
+        
+    }
+    
+    
     
 }
